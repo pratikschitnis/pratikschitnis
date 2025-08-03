@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Pratik Chitnis!
+🎓 I’ve completed CDAC in Advanced Computing and currently pursuing Data Science.
+🧠 I’m passionate about solving real-world problems using data-driven approaches.
 
-<!--
-**pratikschitnis/pratikschitnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+Languages: Python, SQL
+Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn
+Visualization & BI: Power BI
+Statistics & Analytics: Hypothesis Testing, Regression, EDA
+📈 What I'm Working On
+Building hands-on projects in data cleaning, analysis, and visualization
+Exploring machine learning techniques and real-time data applications
+Enhancing dashboard design using Power BI for business insights
+🌱 Currently Learning
+Machine Learning (Supervised/Unsupervised)
+Time Series Analysis
+Deployment of ML models
+📫 Let's Connect
+Feel free to connect with me on LinkedIn or check out my repositories here!profile
+👋 Hi, I'm Pratik Chitnis!
+🎓 I’ve completed CDAC in Advanced Computing and currently pursuing Data Science.
+🧠 I’m passionate about solving real-world problems using data-driven approaches.
 
-Here are some ideas to get you started:
+🛠️ Skills
+Languages: Python, SQL
+Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn
+Visualization & BI: Power BI
+Statistics & Analytics: Hypothesis Testing, Regression, EDA
+📈 What I'm Working On
+Building hands-on projects in data cleaning, analysis, and visualization
+Exploring machine learning techniques and real-time data applications
+Enhancing dashboard design using Power BI for business insights
+🌱 Currently Learning
+Machine Learning (Supervised/Unsupervised)
+Time Series Analysis
+Deployment of ML models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-chitnis-b3b854184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my repositories here!
