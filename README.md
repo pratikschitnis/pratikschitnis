@@ -1,37 +1,70 @@
-👋 Hi, I'm Pratik Chitnis!
+<h1 align="center">Hi there, I'm Pratik Chitnis 👋</h1>
 
-🎓 I’ve completed CDAC in Advanced Computing and currently pursuing Data Science.
+<p align="center">
+ 📊 Turning Data into Insights | 🤖 Exploring Machine Learning | 🚀 Growing with Purpose
+</p>
 
-🧠 I’m passionate about solving real-world problems using data-driven approaches.
+---
 
-🛠️ Skills
+## 👨‍💻 About Me  
+🎓 Completed **CDAC in Advanced Computing** | Currently pursuing **Data Science**  
 
-Languages: Python, SQL
+💡 Passionate about solving **real-world problems** using **data-driven approaches**  
 
-Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn
+📊 Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI**  
 
-Visualization & BI: Power BI
+📈 Experienced in **EDA, Hypothesis Testing, Regression, and Business Analytics**  
 
-Statistics & Analytics: Hypothesis Testing, Regression, EDA
+🚀 Exploring ML, Time Series, and Model Deployment  
 
-📈 What I'm Working On
+---
 
-Building hands-on projects in data cleaning, analysis, and visualization
+## 🌟 What I’m Working On  
+📌 Building hands-on projects in **data cleaning, analysis & visualization**  
 
-Exploring machine learning techniques and real-time data applications
+📚 Exploring **machine learning techniques** and **real-time data applications**  
 
-Enhancing dashboard design using Power BI for business insights
+📊 Designing **interactive dashboards** in Power BI for **business insights**  
 
-🌱 Currently Learning
+✨ Lifelong learner with a problem-solving mindset  
 
-Machine Learning (Supervised/Unsupervised)
+---
 
-Time Series Analysis
+## 💼 Tools I Use  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
 
-Deployment of ML models
+---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikschitnis&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikschitnis&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-chitnis-b3b854184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or 
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikschitnis&theme=dracula&custom_title=Pratik%20Chitnis's%20Contribution%20Graph&hide_border=true&area=true&radius=16&bg_color=1a1a1a&line=ff007f&point=ff007f&color=ffffff" alt="Contribution Graph" />
+</p>
 
-check out my repositories here!
+---
+
+## 🔗 Let's Connect  
+<p>
+  <a href="[https://www.linkedin.com/in/pratikschitnis](https://www.linkedin.com/in/pratik-chitnis-b3b854184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:pratikschitnis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+> _"Data is the new oil, and I love refining it into insights!"_  
+
