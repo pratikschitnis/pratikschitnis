@@ -57,7 +57,7 @@
 
 ## 🔗 Let's Connect  
 <p>
-  <a href="https://www.linkedin.com/in/pratikschitnis](https://www.linkedin.com/in/pratik-chitnis-b3b854184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/pratik-chitnis-b3b854184" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -65,6 +65,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+> _"Data is the new oil, and I love refining it into insights!"_  
 
 > _"Data is the new oil, and I love refining it into insights!"_  
 
