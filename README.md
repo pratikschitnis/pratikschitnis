@@ -57,7 +57,7 @@
 
 ## 🔗 Let's Connect  
 <p>
-  <a href="[https://www.linkedin.com/in/pratikschitnis](https://www.linkedin.com/in/pratik-chitnis-b3b854184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/pratikschitnis](https://www.linkedin.com/in/pratik-chitnis-b3b854184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
