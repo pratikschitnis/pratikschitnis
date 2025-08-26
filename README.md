@@ -66,7 +66,5 @@
   </a>
 </p>
 
-> _"Data is the new oil, and I love refining it into insights!"_  
-
-> _"Data is the new oil, and I love refining it into insights!"_  
+> _"Data is the new oil, and I love refining it into insights!"_   
 
